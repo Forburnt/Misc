@@ -1,5 +1,5 @@
 # UmRS v0.1 (RU)
-*Universum Roleplay System, by Forburnt*
+*Universum Roleplaying System, by Forburnt*
 *(ЮмРС)*
 
 ## Character
