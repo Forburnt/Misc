@@ -14,6 +14,7 @@
 ### Inventory
 ---[^wip]
 Unilang[^vb]
+[^todo]
 
 ## Resolution
 
@@ -22,7 +23,7 @@ Unilang[^vb]
 ## Content
 
 ## Notes
-[^wip]: Content to be filled until the v1.0 release.
+[^wip]: Content to be filled in until the v1.0 release.
 [^todo]: Content to be filled in sometime later (possibly after v1.0).
 [^vb]: Versbanhm, a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) of mine associated with the Universum lore.
 
