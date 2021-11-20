@@ -12,8 +12,8 @@
 ### Traumas
 ### Aspects
 ### Inventory
----[^WIP]
-Unilang[^VB]
+---[^wip]
+Unilang[^vb]
 
 ## Resolution
 
@@ -22,8 +22,8 @@ Unilang[^VB]
 ## Content
 
 ## Notes
-[^WIP]: Content to be filled in
-[^VB]: Versbanhm, a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) of mine associated with the Universum lore.
+[^wip]: Content to be filled in
+[^vb]: Versbanhm, a [constructed language](https://en.wikipedia.org/wiki/Constructed_language) of mine associated with the Universum lore.
 
 ## Lore
 
